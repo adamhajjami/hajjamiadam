@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="MAROC CHANELL" background="rgba(0,0,0,0)", AL MAGHRIBYA
+https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MAROC CHANELL" logo="https://www.stickpng.com/assets/images/5a02ccba18e87004f1ca43f2.png" size="Big" background="rgba(217,192,192,0.3)", 2M-MAROC
+http://cdnamd-hls-globecast.akamaized.net:80/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MAROC CHANELL" logo="https://en.m.wikipedia.org/wiki/File:%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png" background="https://en.m.wikipedia.org/wiki/File:%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png", AL OULA INTER
+https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MAROC CHANELL", ARRYADIA
+https://cdnamd-hls-globecast.akamaized.net:443/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MAROC CHANELL" logo="https://www.google.com/imgres?imgurl=http%3A%2F%2Fboursenews.fnh.ma%2F%2Fuploads%2Factualites%2F0e43e72b4f9e8a11701cccde5b8bc3701ecf3773.jpg&imgrefurl=https%3A%2F%2Fwww.boursenews.ma%2Farticle%2Factualite%2Fmedi1tv-sur-le-reseau-tnt-de-la-snrt&tbnid=ZtZM5ldBTagx2M&vet=12ahUKEwjCst-0l8XoAhUR8IUKHYUGD7MQMygCegUIARDvAQ..i&docid=sb2wyoXAPie7kM&w=2804&h=2175&q=medi%201%20tv%20png&client=avast&ved=2ahUKEwjCst-0l8XoAhUR8IUKHYUGD7MQMygCegUIARDvAQ0saab50.jpg" tvg-country="ar" background="rgba(0,0,0,0)", MEDI1TV
+http://streaming.medi1tv.com:80/live/Medi1tvmaghreb.sdp/chunklist_w757138538.m3u8
+#EXTINF:0 type="stream" channelId="-1", Coronavirus
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/1
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD1 (720p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/2
+#EXTINF:0 type="stream" channelId="-1", BEIN
+http://yacinebeiin.ddns.net:8000/live/beeiiin8011/beeiiin8011/1.ts
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 2 (512p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/3
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD2 (720p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/28
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD3 (720p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/4
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 4 (512p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/5
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD5 (720p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/6
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 6 (512p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/7
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 1 (512p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/27
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 3 (512p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/29
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD4 (720p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/30
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 5 (512p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/31
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD6 (720p)
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/32
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 1 (512p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/2
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 2 (512p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/29
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 3 (512p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/4
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 4 (512p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/31
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 5 (512p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/6
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT LOW 6 (512p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/33
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD1 (720p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/28
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD2 (720p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/3
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD3 (720p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/30
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD4 (720p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/5
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD5 (720p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/32
+#EXTINF:0 type="stream" channelId="-1", beIN SPORT SD6 (720p)
+http://178.63.48.23:25461/airmaxtvbeinsport356/x9FSwE2c4T/7
+#EXTINF:0 type="stream" channelId="-1", MOVIES_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/10
+#EXTINF:0 type="stream" channelId="-1", MOVIES_ACTION_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/11
+#EXTINF:0 type="stream" channelId="-1", Movies_Enigma_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/12
+#EXTINF:0 type="stream" channelId="-1", Movies_First_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/13
+#EXTINF:0 type="stream" channelId="-1", SERIES_FIRST_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/14
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Box Office 2 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/15
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Action +2 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/16
+#EXTINF:0 type="stream" channelId="-1", OSN Movies +2h HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/17
+#EXTINF:0 type="stream" channelId="-1", MyHD FOX LIFE SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/18
+#EXTINF:0 type="stream" channelId="-1", Movies action
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/19
+#EXTINF:0 type="stream" channelId="-1", Movies premiere
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/20
+#EXTINF:0 type="stream" channelId="-1", ALYOUM_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/25
+#EXTINF:0 type="stream" channelId="-1", Bein:FATAFEAT
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/26
+#EXTINF:0 type="stream" channelId="-1", YAHALA_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/33
+#EXTINF:0 type="stream" channelId="-1", Ya_Hala_Oula_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/34
+#EXTINF:0 type="stream" channelId="-1", YAHALA_CINEMA_SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/35
+#EXTINF:0 type="stream" channelId="-1", OSN Series HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/36
+#EXTINF:0 type="stream" channelId="-1", OSN ON DEMAND 1 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/37
+#EXTINF:0 type="stream" channelId="-1", OSN ON DEMAND 2 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/38
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Thriller +2 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/39
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Premiere +2 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/40
+#EXTINF:0 type="stream" channelId="-1", OSN WWE HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/41
+#EXTINF:0 type="stream" channelId="-1", MyHD Fox Rewayat HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/42
+#EXTINF:0 type="stream" channelId="-1", MyHD Fox Movies SD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/43
+#EXTINF:0 type="stream" channelId="-1", Ya Hala! Al Oula 4k
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/52
+#EXTINF:0 type="stream" channelId="-1", OSN Ya Hala Cinema 4k
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/53
+#EXTINF:0 type="stream" channelId="-1", OSN Movies First 1
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/54
+#EXTINF:0 type="stream" channelId="-1", OSN Movies Action 4k
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/55
+#EXTINF:0 type="stream" channelId="-1", beiN SERIES 1 HD 4k
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/56
+#EXTINF:0 type="stream" channelId="-1", beiN SERIES 2 HD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/57
+#EXTINF:0 type="stream" channelId="-1", beiN MOVIES FAMILY 4 k
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/58
+#EXTINF:0 type="stream" channelId="-1", OXN YA HALA MOVIES 2
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/8
+#EXTINF:0 type="stream" channelId="-1", OXN YA HALA INDIA
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/9
+#EXTINF:0 type="stream" channelId="-1", OXN YA HALA MIX
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/44
+#EXTINF:0 type="stream" channelId="-1", OXN YA HALA CINEMA 1
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/45
+#EXTINF:0 type="stream" channelId="-1", OXN YA HALA CINEMA 2
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/46
+#EXTINF:0 type="stream" channelId="-1", OXN YA HALA ZAMAN
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/47
+#EXTINF:0 type="stream" channelId="-1", NETFLIX HORROR FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/21
+#EXTINF:0 type="stream" channelId="-1", NETFLIX KIDS FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/22
+#EXTINF:0 type="stream" channelId="-1", NETFLIX MOVIES FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/23
+#EXTINF:0 type="stream" channelId="-1", NETFLIX THRILLER FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/24
+#EXTINF:0 type="stream" channelId="-1", NETFLIX ARABIC
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/48
+#EXTINF:0 type="stream" channelId="-1", NETFLIX BOLLYOOD FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/49
+#EXTINF:0 type="stream" channelId="-1", NETFLIX BOX OFFICE FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/50
+#EXTINF:0 type="stream" channelId="-1", NETFLIX CLASSICS FHD
+http://88.198.65.79:25461/BLACKTV/4dncgISQUq/51
